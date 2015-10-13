@@ -14,7 +14,7 @@ After clonning to project folder, change BASE_URL in docker-compose.yml
 
 ## Manage Project
 
-Attention: Run all command from current project folder
+*Attention: Run all command from current project folder*
 
 ### Start container
 
@@ -32,7 +32,7 @@ docker-compose stop
 
 ```bash
 docker exec -it WEB_CONTAINER_NAME /scripts/import.sh
-
-Enjoy!
 ```
+
+*Enjoy!*
 
